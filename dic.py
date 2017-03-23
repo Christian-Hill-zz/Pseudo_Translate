@@ -27,4 +27,4 @@ def check(word):
 
 
 
-print(check('='))
+
