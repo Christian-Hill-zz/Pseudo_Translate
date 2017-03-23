@@ -1,6 +1,14 @@
 def check(word):
 
-  dic = {'+' : '+', '-':'-','Input':'input=', 'num':'int', '=':'='}
+  dic = {'+' : '+',
+  '-':'-',
+  'Input':'input=',
+  'num':'int',
+  '=':'=',
+  'Begin':'',
+  'End':'',
+  'Print':'print'
+  }
 
   if word in dic:
 
@@ -11,6 +19,12 @@ def check(word):
   else:
 
     return False
+
+
+
+    
+  ##if end tell luke's program to close the file and run the converted script!
+
 
 
 print(check('='))
