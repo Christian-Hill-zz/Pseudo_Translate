@@ -1,5 +1,8 @@
 1. git pull/push : Send and receive the files. Update the folder.
 2. git add . : Adds the files to send
 3. git commit -am “message” : Describes what you have just added.
+4. git log : Shows the most recent changes to the code base.
+5. git status : Shows the changes needed to be added before a push.
+
 Always pull before doing work and push when finishing work.
 Always add a file and commit changes before pushing and sending. This will update the folder for everyone.
