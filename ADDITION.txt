@@ -1,0 +1,6 @@
+BEGIN
+Input num A
+Input num B
+C = A + B
+print C
+END
