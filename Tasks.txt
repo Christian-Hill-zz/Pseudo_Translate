@@ -1,4 +1,2 @@
-Luke
-Megan
-Alyssia
-Christian
+Refer to the projects section on the github website:
+https://github.com/Christian-Hill/Pseudo_Translate/projects
