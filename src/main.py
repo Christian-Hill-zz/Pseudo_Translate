@@ -1,12 +1,11 @@
 from dic import *
+from File import *
 
 
 def main():
-    with open("ADDITION.txt", "r") as ins:
-        array = []
-        for line in ins:
-            array.append(line)
-    print(array)
+    x=wordByWord
+    print x
+    print(check(x))
 
 
 main()
