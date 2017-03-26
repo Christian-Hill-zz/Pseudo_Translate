@@ -6,7 +6,7 @@ def check(word):
   if word in dic:
     x=dic[word]
     return(x)
-  elif word=='End' and (dic[word]==''):
+  elif word=='End' and (x ==''):
     return 0
   else:
     return word
