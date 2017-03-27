@@ -13,3 +13,4 @@ def check(word):
 
 
 
+#Need to find out variable before setting the input and input type.
