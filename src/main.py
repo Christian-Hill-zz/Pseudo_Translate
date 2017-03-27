@@ -1,13 +1,7 @@
-from dic import *
+import File
+import dic
+from File import *
 
-
-def main():
-    with open("ADDITION.txt", "r") as ins:
-        array = []
-        for line in ins:
-            array.append(line)
-    print(array)
-
-
-main()
-
+if __name__ == '__main__':
+    com = dic.check(array[0])
+    print(com)
