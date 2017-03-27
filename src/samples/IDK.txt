@@ -1,0 +1,13 @@
+BEGIN
+Input A
+Input B
+Print A
+Print B
+C = A + B
+Print C
+B = C + A
+Print B
+A = B + C
+Print A
+END
+
