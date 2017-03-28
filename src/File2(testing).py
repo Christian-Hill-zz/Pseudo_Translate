@@ -9,4 +9,3 @@ with open("ADDITION.txt", "r") as ins:
             array = []
             array.append(line)
             print(array)
-            print (line)

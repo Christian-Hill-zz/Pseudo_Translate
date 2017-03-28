@@ -1,0 +1,6 @@
+BEGIN
+Input A
+Input B
+C = A * B
+Print C
+END
